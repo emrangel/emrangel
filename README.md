@@ -1,9 +1,7 @@
 ### Hi! 👋
 
 My name is Erick Rangel and I am studied economist. I am from Colombia.
-My work is centered on data analyst, in which I use mainly 
-![](https://img.shields.io/badge/Code-R-2bbc8c)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+My work is centered on data analyst.
 
 <h3 align="center">A passionate economist from Colombia </h3>
 
