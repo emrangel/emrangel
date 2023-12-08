@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Erick Rangel and I am studied economist. I am from Colombia.
+My name is Erick Rangel
 Enthusiastic programmer.
 
 <h3 align="center">A passionate economist from Colombia </h3>
