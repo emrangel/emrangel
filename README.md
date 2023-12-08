@@ -1,11 +1,12 @@
 ### Hi! 👋
 
 My name is Erick Rangel and I am studied economist. I am from Colombia.
-My work is centered on data analyst.
+Enthusiastic programmer.
 
 <h3 align="center">A passionate economist from Colombia </h3>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
