@@ -2,11 +2,10 @@
 
 ## Experienced Data Engineer | R | Python | SFMC | Automation | ML | REST API | SOAP API | Test Automation | Code Review | Agile Methodologies
 
-Welcome to my GitHub! I'm a technology enthusiast with robust experience in crafting scalable and solid solutions. Passionate about creating applications that make a difference, I have a proven track record in leading successful projects.
+Welcome to my GitHub! I'm a technology enthusiast with robust experience in data analyst.
 
 ### 🚀 Key Achievements
-- Co-founder and CTO of Ucover, a winning startup among 220 companies in an initiative by Universidad Simón Bolívar and MacondoLab.
-- Completed multiple freelance jobs on Upwork, designing and implementing high-quality solutions for various clients. Contributions include the design of high-performance endpoints and the implementation of advanced design patterns.
+- Data Engineer
 
 ### 🛠️ Technologies and Tools
 - *Languages*: Python, Django
