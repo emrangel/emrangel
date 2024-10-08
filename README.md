@@ -1,7 +1,7 @@
 # Hi, I'm Erick Rangel 👋
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Thanks!
 ## Experienced Data Engineer | R | Python | SFMC | Automation | ML | REST API | SOAP API | Test Automation | Code Review | Agile Methodologies
 
 Welcome to my GitHub! I'm a technology enthusiast with robust experience in data analyst.
