@@ -6,20 +6,6 @@
 
 Welcome to my GitHub! I'm a technology enthusiast with robust experience in data analyst.
 
-### 🚀 Key Achievements
-- Data Engineer
-
-### 🛠️ Technologies and Tools
-- *Languages*: Python, Django
-- *APIs*: REST, SOAP
-- *Testing*: Pytest
-- *Design Patterns*: Dependency Injection, Factory, Facade
-- *Architecture*: Hexagonal (Ports and Adapters)
-- *Methodologies*: SCRUM, Agile
-
-### 🌱 Building and Learning
-I am currently looking for new opportunities and challenges to continue growing professionally. If you'd like to know more about my story, projects, or simply want to exchange ideas, please feel free to connect with me.
-
 ### 📫 Contact Me
 - LinkedIn: [Erick Rangel on LinkedIn](https://www.linkedin.com/in/emrangel/)
 - Email: emateo.angulo@gmail.com
